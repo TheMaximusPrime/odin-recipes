@@ -1,0 +1,25 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.heading {
+    text-align: center;
+}
+
+.idli,
+.idli-batter,
+.about-biryani,
+.dosa-batter,
+.dosa {
+    text-align: left;
+}
+
+#ingredients {
+    text-align: center;
+}
+
+#recipes {
+    text-decoration: none;
+    color: black;
+    font-weight: 200px;
+}
